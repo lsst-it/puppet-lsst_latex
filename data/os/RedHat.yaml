@@ -1,0 +1,22 @@
+---
+lsst_latex::packages:
+  - git 
+  - latexmk 
+  - make 
+  - poppler-utils 
+  - PyYAML 
+  - texlive-collection-basic
+  - texlive-collection-fontsrecommended
+  - texlive-collection-latex
+  - texlive-collection-latexrecommended
+  - texlive-collection-xetex
+  - texlive-beamer
+  - texlive-beamer-doc
+  - texlive-dvipng
+  - texlive-dvipng-bin
+  - texlive-dvipng-doc
+  - texlive-lm
+  - texlive-lm-math
+  - texlive-xcolor
+  - texlive-xcolor-doc
+
